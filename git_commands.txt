@@ -1,0 +1,63 @@
+Write 20 git commands and their functions 
+
+
+git init:
+
+Initializes a new Git repository in the current directory.
+git clone [repository URL]:
+
+Creates a copy of a remote repository on your local machine.
+git add [file(s)]:
+
+Stages changes for commit. Use git add . to add all changes.
+git commit -m "[commit message]":
+
+Commits staged changes with a descriptive message.
+git status:
+
+Shows the status of your working directory, indicating changes and untracked files.
+git log:
+
+Displays the commit history, showing commit messages, authors, and commit timestamps.
+git branch:
+
+Lists all local branches. Use -r to list remote branches.
+git checkout [branch name]:
+
+Switches to the specified branch.
+git merge [branch name]:
+
+Merges changes from the specified branch into the current branch.
+git pull [remote] [branch]:
+
+Fetches changes from a remote repository and merges them into the current branch.
+git push [remote] [branch]:
+
+Pushes local changes to a remote repository.
+git remote -v:
+
+Lists all remote repositories linked to the current local repository.
+git fetch:
+
+Retrieves changes from a remote repository without merging them.
+git diff:
+
+Shows the differences between working directory changes and the last commit.
+git reset [file]:
+
+Unstages changes for the specified file.
+git rm [file]:
+
+Removes a file from both the working directory and the staging area.
+git tag [tag name]:
+
+Adds a tag to the latest commit, often used to mark release points.
+git branch -d [branch name]:
+
+Deletes a specified local branch.
+git stash:
+
+Temporarily saves changes that are not ready to be committed.
+git config --global [user.name/user.email] "[Your Name/Your Email]":
+
+Sets your global Git username and email.

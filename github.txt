@@ -1,0 +1,45 @@
+1. Create a GitHub Account:
+
+Visit the GitHub website (https://github.com/).
+Click on the "Sign up" button.
+Fill in the required information, including a username, email address, and password.
+Complete the account creation process.
+2. Verify Your Email:
+
+After signing up, GitHub will send a verification email to the address you provided.
+Open the email and follow the instructions to verify your email address.
+3. Log into Your GitHub Account:
+
+Visit the GitHub website and log in with the credentials you used to create your account.
+
+locate you profile picture at the top right corner
+
+click on it and locate your repositories
+
+click on it and locate a green button with the inscription NEW
+
+click to create a new repo
+
+give a repo name to it
+
+A description of your choice for easy ID
+
+go public because private will mean you will pay
+
+you can create your README.md but for flexibility, leave it.
+
+now click on create repository which is a green button
+
+To Clone the Repository to Your Local Machine:
+
+Open a terminal or command prompt on your local machine.
+
+Use the following command to clone the repository to your machine. 
+
+Replace <repository URL> with the actual URL of the repository you created.
+
+in the git teminal, type git clone <repository URL>
+
+
+
+
